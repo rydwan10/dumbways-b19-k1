@@ -1,7 +1,7 @@
 # Jawaban DumbWays Online Technical Text
 Stack yang digunakan
 1. Javascript (Node.js)
-2. 
+2. (belum)
 3. Java
 4. PHP
 ## 1. Konversi Huruf ke Biner
@@ -19,7 +19,7 @@ $ node 1.js
 
 Masukkan kata atau kalimat Anda pada console kemudian tekan enter untuk melakukan konversi string ke binary.
 
-## 2. -
+## 2. (belum)
 
 ## 3. Pola Belah Ketupat
 ket: Buka project melalui Netbeans IDE
