@@ -1,4 +1,4 @@
-# Jawaban DumbWays Online Technical Text
+# Jawaban DumbWays Online Technical Test
 ## Batch 19 Kloter 1
 Stack yang digunakan
 1. Javascript (Node.js)
