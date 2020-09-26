@@ -23,7 +23,6 @@ Masukkan kata atau kalimat Anda pada console kemudian tekan enter untuk melakuka
 ## 2. Gerakan Lurus Berubah Beraturan
 
 ## 3. Pola Belah Ketupat
-ket: Buka project melalui Netbeans IDE
 
 ## 4A. Screenshot SQL
 
