@@ -1,0 +1,6 @@
+Pertanyaan: "Tampilkan seluruh data dari table produk beserta importir"
+Jawaban: "SELECT p.id, p.name, i.id as importir_id, i.name AS importir_name, i.address, i.phone, p.Photo, p.qty, p.price FROM produk_tb p LEFT JOIN importir_tb i ON p.importir_id = i.id;"
+
+
+Pertanyaan: "Tampilkan seluruh data produk berdasarkan importir"
+Jawaban: "SELECT p.id, p.name, i.id as importir_id, i.name AS importir_name, i.address, i.phone, p.Photo, p.qty, p.price FROM produk_tb p LEFT JOIN importir_tb i ON p.importir_id = i.id WHERE i.name = "PT.DumbWays";
